@@ -1,0 +1,16 @@
+<section class="comment-area">
+	<div class="comment-wrapper">
+		{% if site.comment.intensedebate_identifier %}
+			<div id="disqus_thread" class="article-commnets">
+				<script>
+					var idcomments_acct = '{{ site.comment.intensedebate_identifier }}';
+					var idcomments_post_id;
+					var idcomments_post_url;
+				</script>
+				<span id="IDCommentsTitle" style="display:none"></span>
+				<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+			</div>
+		{% endif %}
+	
+	</div>
+</section>
