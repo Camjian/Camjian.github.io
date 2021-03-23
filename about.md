@@ -13,9 +13,9 @@ title: 关于我们
 * 坚决杜绝各类代币发行及炒作，如发现文章含敏感信息，请点击「举报」，我们会及时处理。
 <h3> 留言 </h3>  
 推荐使用邮件。
-<P>
+
 ![](/images/payimg/email.jpg)
-<p>
+
 
 {% include comments.html %}
 
