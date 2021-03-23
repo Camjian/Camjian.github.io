@@ -13,6 +13,7 @@ title: 支持
 
 <h3> 感谢打赏 </h3> 
 <p>USDT-TRC20</p>
+![](/images/payimg/TetherLogo_diamond.png)
 ![](/images/payimg/HB-USDT-TRC20.jpg)
 <p>TSCjwpJ15ntUjX7kF6nbuBKFmh8S8iWTKY</p>
 
