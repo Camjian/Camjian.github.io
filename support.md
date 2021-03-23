@@ -20,7 +20,7 @@ title: 支持
 <h3> 如何联系 </h3>
 推荐使用邮件。
 <p> 
-![](/images/payimg/email-adr.png)
+![](/images/payimg/email.jpg)
 <p>
 
 {% include disqus.html %}

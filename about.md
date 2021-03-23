@@ -14,7 +14,7 @@ title: 关于我们
 <h3> 留言 </h3>  
 推荐使用邮件。
 <P>
-![](/images/payimg/email-adr.png)
+![](/images/payimg/email.jpg)
 <p>
 
 {% include comments.html %}
