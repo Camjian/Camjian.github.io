@@ -18,9 +18,10 @@ title: 支持
 <p>TSCjwpJ15ntUjX7kF6nbuBKFmh8S8iWTKY</p>
 
 <h3> 如何联系 </h3>
-
+推荐使用邮件。
 <p> 
-email：271553301@qq.com
+![](/images/email-adr.png)
+<p>
 
 {% include disqus.html %}
 

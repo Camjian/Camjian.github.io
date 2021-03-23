@@ -4,6 +4,7 @@ title: "全新 NFT 交易平台 ShardingDAO 上线"
 date: 2021-03-23 
 description: "全新 NFT 交易平台 ShardingDAO 上线，将于 3 月 23 日上午 11 点开启挖矿并进行空投"
 tag: NFT
+---
 
 近日，集 NFT、AMM 和 DAO 于一体的全新 NFT 交易平台 ShardingDAO 正式上线，将实现艺术民主化和低成本资本流通。
 
