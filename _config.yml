@@ -13,7 +13,6 @@ enableToc: true
 
 # Comment
 comment:
-    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
     # disqus: Camjian
     intensedebate_identifier: TkznlpLMi5mrDJbMi0P4
 
@@ -45,7 +44,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 主页
+    title: 博客
 
 # Navigation buttons in the front page.s
 nav:
