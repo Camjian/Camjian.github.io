@@ -14,4 +14,12 @@ layout: default
   <section class="post">
     {{ content }}
   </section>
+  
+  <div class="post-meta">
+  {% include comments.html %}
+  </div>
+  
+  <div class="post-meta">
+  {% include disqus.html %}
+  </div>
 </article>
