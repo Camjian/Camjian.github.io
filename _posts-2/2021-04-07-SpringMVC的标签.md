@@ -31,3 +31,16 @@ Spring MVC新特性
 ![](/images/posts/spring/2.png)
 ![](/images/posts/spring/3.png)
 ![](/images/posts/spring/4.png)
+
+### Request Get的2种方式
+#### 方式1.
+> @RequestMapping(value = "/user.do", method = RequestMethod.GET)
+> public ModelAndView getUserByID(int id) {
+
+访问连接 http://localhost:8080/ssm/user.do?id=1
+
+#### 方式2.
+> @GetMapping(value = "/user.do/{id}")
+> public ModelAndView getUserByID(@PathVariable("id") int id) {
+
+访问连接 http://localhost:8080/ssm/user.do/1
