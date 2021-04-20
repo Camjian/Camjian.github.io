@@ -8,6 +8,8 @@ tag: DeFi
 
 > 重现 1930-1940 年代的北碚城市风貌，Decentraland 虚拟空间同步了一场为期一个月的线上展览。
 
+[Decentraland](https://decentraland.org/?ref=block123)
+
 __原文标题：《「乡建中国思想展」 DCL 线上展览正式推出》__
 __撰文： FromTheSoil__
 
